@@ -1,5 +1,25 @@
 # thirdweb
 
+## 5.92.1
+
+### Patch Changes
+
+- [#6449](https://github.com/thirdweb-dev/js/pull/6449) [`f655657`](https://github.com/thirdweb-dev/js/commit/f655657fce01606e47f113c3a81f829c94cfadda) Thanks [@joaquim-verges](https://github.com/joaquim-verges)! - Fix EIP1193 provider adapter filtering out value from transactions
+
+- [#6447](https://github.com/thirdweb-dev/js/pull/6447) [`109f250`](https://github.com/thirdweb-dev/js/commit/109f2500680205eec3df6bac05b61eb70f3b4e58) Thanks [@joaquim-verges](https://github.com/joaquim-verges)! - Fix ethers5 adapter not handling authorizationList tx prop
+
+## 5.92.0
+
+### Minor Changes
+
+- [#6443](https://github.com/thirdweb-dev/js/pull/6443) [`f6cbdb7`](https://github.com/thirdweb-dev/js/commit/f6cbdb7e3083c095475dbd33723a1ea19a95a293) Thanks [@gregfromstl](https://github.com/gregfromstl)! - BREAKING: Removes 3D model support in MediaRenderer
+
+## 5.91.1
+
+### Patch Changes
+
+- [#6439](https://github.com/thirdweb-dev/js/pull/6439) [`2ae778e`](https://github.com/thirdweb-dev/js/commit/2ae778ed7f49df958b6536c373e7db480148133f) Thanks [@gregfromstl](https://github.com/gregfromstl)! - Adds countdown for email cooldown
+
 ## 5.91.0
 
 ### Minor Changes
